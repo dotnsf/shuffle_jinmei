@@ -1,0 +1,14 @@
+{
+    "name": "shuffle_jinnmei",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node shuffle_jinmei.js"
+    },
+    "dependencies": {
+        "mecab-async": "^0.1.2"
+    },
+    "repository": {},
+    "engines": {
+        "node": "8.x"
+    }
+}
