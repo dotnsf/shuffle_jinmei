@@ -10,6 +10,13 @@ Quiz Generator for `Shuffle Jinmei`.
 - https://www.bsfuji.tv/noubellshow/
 
 
+## broadcast
+
+2020/04/18 [クイズ！脳ベルSHOW](https://www.bsfuji.tv/noubellshow/) 放送分で問題に採用
+
+![2020/04/18 放送分で紹介](./imgs/20200416.jpg)
+
+
 ## License
 
 This code is licensed under MIT.
