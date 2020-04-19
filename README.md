@@ -36,8 +36,6 @@ Quiz Generator for **Shuffle Jinmei(シャッフル人名)**.
 
 - `$ node shuffle_jinmei かわばたやすなり`
 
-  - [上記コマンドの実行結果サンプル](./かわばたやすなり.txt)
-
 
 ## License
 
