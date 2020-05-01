@@ -3,8 +3,8 @@ var fs = require( 'fs' );
 var MeCab = require( 'mecab-async' );
 
 var mecab = new MeCab();
-mecab.command = 'mecab -d /usr/local/lib/mecab/dic/ipadic';
-
+//mecab.command = 'mecab -d /usr/local/lib/mecab/dic/ipadic';  //. for soruce installed mecab & ipadic
+mecab.command = 'mecab -d /var/lib/mecab/dic/ipadic-utf8';     //. for apt installed mecab & ipadic-utf8
 
 var name = process.argv.length > 2 ? process.argv[2] : '';
 if( name ){
